@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061767952891",
+    "project_id": "medicinsschedules",
+    "storage_bucket": "medicinsschedules.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061767952891:android:257d18b4d71fd79ecf335e",
+        "android_client_info": {
+          "package_name": "com.example.medicins_schedules"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHA3iGQmLuvZyZCDauvcFpSZbuquNqNOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
